@@ -218,7 +218,7 @@ section .events ul li .details a:hover {
         width: 80px;
         height: 80px;
         padding: 0;
-        border-radius: 0px 25px 25px 25px;
+        border-radius: 0px 25px 25px 0px;
     }
     section .events ul li .time h2{
         font-size: 30px;
